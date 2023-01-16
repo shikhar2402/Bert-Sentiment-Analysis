@@ -1,0 +1,10 @@
+huggingface-hub==0.11.1
+pandas==1.5.2
+Pillow==9.3.0
+pretrainedmodels==0.7.4
+tokenizers==0.13.2
+torch==1.13.0
+torchvision==0.14.0
+tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+transformers==4.25.1
+
